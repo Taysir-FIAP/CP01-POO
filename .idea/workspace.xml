@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d451bc7-b454-46f8-97b6-397aecbd30ef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/fiap-poo/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/fiap-poo/.classpath" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiap-poo/src/.classpath" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiap-poo/src/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiap-poo/src/.project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiap-poo/src/br/com/fiapride/main/SistemaPrincipal.java" beforeDir="false" afterPath="$PROJECT_DIR$/fiap-poo/src/br/com/fiapride/main/SistemaPrincipal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiap-poo/src/br/com/fiapride/model/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiap-poo/src/br/com/fiapride/model/Passageiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/fiap-poo/src/br/com/fiapride/model/Veiculo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fiap-poo/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/fiap-poo/src/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +14,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/fiap-poo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -30,15 +24,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/cp01"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/cp01&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="cp01" />

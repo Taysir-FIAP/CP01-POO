@@ -2,7 +2,7 @@ package br.com.fiapride.main;
 
 import br.com.fiapride.model.Veiculo;
 
-public class Principal {
+public class SistemaPrincipal {
     public static void main(String[] args) {
         // Instanciação correta seguindo PascalCase
         Veiculo v1 = new Veiculo();
@@ -12,11 +12,11 @@ public class Principal {
         v1.setPlaca("ABC-1234");
 
         // Tentativa de inserir valor negativo (Será bloqueada pela validação do setter)
-        v1.setNivelCombustivel(-18);
+        v1.setNivelCombustivel(15);
 
         // Operações de abastecimento e consumo
         v1.abastecer(50);
-        v1.consumir(10);
+        v1.consumir(25);
 
         // Saída de dados formatada e limpa
         System.out.println("--- Dados do Veículo ---");
